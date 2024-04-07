@@ -7,3 +7,7 @@ Welcome to my RStudio Projects Repository! This repository serves as a comprehen
 🔘 Techniques: Mechine learning (Logistic Model, KNN, LDE), Data visualization (ggplot), Statistical analysis  
 🔘 Location: /Customer-Segmentation
 
+#### Forecasting the Export of Central African Republic Export
+🔘 Description: This project explores the exportation trends of the Central African Republic from 1960 to 2017, with a focus on predicting future export rates using time series analysis.   
+🔘Techniques: Time series analysis (AR, MA, and ARIMA Model), Data visualization
+🔘 Location: /Export-Forecasting
